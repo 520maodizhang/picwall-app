@@ -1,0 +1,19 @@
+{
+  "appId": "com.picwall.app",
+  "appName": "照片墙",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#ffffff",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#2a2a2a"
+    }
+  }
+}
