@@ -1,0 +1,8 @@
+{
+  "appId": "com.picwall.app",
+  "appName": "照片墙",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
