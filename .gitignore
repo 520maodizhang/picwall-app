@@ -1,0 +1,31 @@
+# Flutter (已废弃)
+.dart_tool/
+.flutter-plugins-dependencies
+.idea/
+.metadata
+analysis_options.yaml
+android/
+build/
+ios/
+lib/
+linux/
+macos/
+photo_wall.iml
+pubspec.lock
+pubspec.yaml
+test/
+web/
+windows/
+v2-*.jpg
+v84.html
+v85.html
+v86.html
+annotate.html
+/package.json
+/package-lock.json
+
+# 临时
+*.tmp
+*.log
+node_modules/
+.DS_Store
